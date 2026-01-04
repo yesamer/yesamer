@@ -10,6 +10,7 @@ I'm a software architect specializing in business automation and intelligent sys
 
 - **Apache KIE Ecosystem** — Contributor to Drools, Kogito, jBPM, and KIE Tools
 - **Rule Engines & CEP** — Complex event processing and business rules management
+- **DMN (Decision Model Notation)** — Design and implementation of standardized decision models
 - **Cloud-Native Business Automation** — Building modern, scalable automation platforms with Quarkus
 - **Enterprise Architecture** — Designing distributed systems and platform engineering solutions
 - **Digital Transformation** — Modernizing legacy systems and driving innovation across enterprises
@@ -21,7 +22,7 @@ I'm a software architect specializing in business automation and intelligent sys
 ## 🔧 Core Technologies
 
 **Languages:** Java, JavaScript, TypeScript
-**Frameworks & Platforms:** Apache Drools, Kogito, jBPM, OptaPlanner, KIE Tools, Appformer, Quarkus, React
+**Frameworks & Platforms:** Apache Drools, Kogito, jBPM, OptaPlanner, KIE Tools, Quarkus, SpringBoot, React
 **Protocols & Standards:** MCP (Model Context Protocol), REST, gRPC  
 **Focus Areas:** Business Rules Engines, Complex Event Processing, Workflow Automation, Cloud-Native Architecture, AI Integration
 
@@ -32,7 +33,7 @@ I actively contribute to the Apache KIE (incubating) ecosystem:
 - **[Drools](https://github.com/apache/incubator-kie-drools)** — Rule engine and complex event processing (CEP) framework
 - **[Kogito](https://github.com/apache/incubator-kie-kogito-runtimes)** — Cloud-native business automation runtime
 - **[KIE Tools](https://github.com/apache/incubator-kie-tools)** — Comprehensive tooling for Kogito and business process automation
-- **[jBPM][https://github.com/apache/incubator-kie-drools](https://github.com/apache/incubator-kie-kogito-runtimes)** — Workflow and process automation engine
+- **[jBPM](https://github.com/apache/incubator-kie-kogito-runtimes)** — Workflow and process automation engine
 
 ## 🌐 Connect & Collaborate
 
@@ -47,9 +48,6 @@ Contributing to the Apache KIE ecosystem to advance business automation technolo
 
 ## 📊 GitHub Statistics
 
-| | |
-|---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=yesamer&theme=dark)](https://git.io/streak-stats) | [![Top Languages](https://github-readme-most-used-langs.vercel.app/?username=yesamer&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 
 ---
 
