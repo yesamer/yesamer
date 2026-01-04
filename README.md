@@ -32,7 +32,7 @@ I actively contribute to the Apache KIE (incubating) ecosystem:
 - **[Drools](https://github.com/apache/incubator-kie-drools)** — Rule engine and complex event processing (CEP) framework
 - **[Kogito](https://github.com/apache/incubator-kie-kogito-runtimes)** — Cloud-native business automation runtime
 - **[KIE Tools](https://github.com/apache/incubator-kie-tools)** — Comprehensive tooling for Kogito and business process automation
-- **[jBPM]([https://github.com/apache/incubator-kie-drools](https://github.com/apache/incubator-kie-kogito-runtimes)** — Workflow and process automation engine
+- **[jBPM][https://github.com/apache/incubator-kie-drools](https://github.com/apache/incubator-kie-kogito-runtimes)** — Workflow and process automation engine
 
 ## 🌐 Connect & Collaborate
 
