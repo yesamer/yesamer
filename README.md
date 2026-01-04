@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yeser Amer
 
-<!--
-**yesamer/yesamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Architect** | Apache KIE Contributor | Open Source Enthusiast | IBM | Former Red Hat | Former UniCredit | Former Project Automation Based in 🇮🇹 Molfetta, Italy
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent, scalable enterprise solutions and actively contributing to open source. As a contributor to the Apache KIE project, I work on some of the most popular business automation open-source technologies in the ecosystem. With experience across leading enterprise software companies, I bring deep expertise in modernizing complex systems and driving digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+I'm a software architect specializing in business automation and intelligent systems with deep expertise in:
+
+- **Apache KIE Ecosystem** — Contributor to Drools, Kogito, jBPM, and KIE Tools
+- **Rule Engines & CEP** — Complex event processing and business rules management
+- **Cloud-Native Business Automation** — Building modern, scalable automation platforms with Quarkus
+- **Enterprise Architecture** — Designing distributed systems and platform engineering solutions
+- **Digital Transformation** — Modernizing legacy systems and driving innovation across enterprises
+- **Open Source Leadership** — Active participant in the Apache Incubator community
+- **AI & Protocol Integration** — Exploring MCP (Model Context Protocol) for intelligent system integration
+
+**Professional Background:** IBM | Red Hat | UniCredit | Project Automation — building enterprise solutions at scale
+
+## 🔧 Core Technologies
+
+**Languages:** Java, JavaScript, TypeScript
+**Frameworks & Platforms:** Apache Drools, Kogito, jBPM, OptaPlanner, KIE Tools, Appformer, Quarkus, React
+**Protocols & Standards:** MCP (Model Context Protocol), REST, gRPC  
+**Focus Areas:** Business Rules Engines, Complex Event Processing, Workflow Automation, Cloud-Native Architecture, AI Integration
+
+## 📦 Apache KIE Projects
+
+I actively contribute to the Apache KIE (incubating) ecosystem:
+
+- **[Drools](https://github.com/apache/incubator-kie-drools)** — Rule engine and complex event processing (CEP) framework
+- **[Kogito](https://github.com/apache/incubator-kie-kogito-runtimes)** — Cloud-native business automation runtime
+- **[KIE Tools](https://github.com/apache/incubator-kie-tools)** — Comprehensive tooling for Kogito and business process automation
+- **[jBPM]([https://github.com/apache/incubator-kie-drools](https://github.com/apache/incubator-kie-kogito-runtimes)** — Workflow and process automation engine
+
+## 🌐 Connect & Collaborate
+
+- **LinkedIn:** [yeseramer](https://www.linkedin.com/in/yeseramer/)
+- **Twitter:** [@yesrema](https://twitter.com/yesrema)
+- **Apache KIE Community:** [Zulip Chat](https://kie.zulipchat.com/) | [Mailing Lists](https://lists.apache.org/list.html?dev@kie.apache.org)
+- **Interests:** Business automation architectures, open source collaboration, and mentoring
+
+## 💡 What I'm Working On
+
+Contributing to the Apache KIE ecosystem to advance business automation technologies and help organizations build intelligent, scalable systems. I'm passionate about making enterprise automation tools more accessible and powerful for the global developer community.
+
+## 📊 GitHub Statistics
+
+| | |
+|---|---|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=yesamer&theme=dark)](https://git.io/streak-stats) | [![Top Languages](https://github-readme-most-used-langs.vercel.app/?username=yesamer&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+
+---
+
+*Always open to collaborations, architectural discussions, and contributing to meaningful open source projects. Let's build amazing automation solutions together!* 🚀
