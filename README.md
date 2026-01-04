@@ -19,20 +19,6 @@ I'm a software architect specializing in business automation and intelligent sys
 
 **Professional Background:** IBM | Red Hat | UniCredit | Project Automation — building enterprise solutions at scale
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- Main stats -->
-  <a href="https://github.com/anurithub-readme-stats
-    <img alt="Yeser's GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=yesamer&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private>
-  https://github.com/anuraghazra/github-readme-stats
-    <img alt="Top Languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesamer&layout=compact&langs_count=10&theme=radicaleak stats -->
-  <a href="https://github.com/denvercoder1/github-readmetats
-    <img alt="GitHub Streak" height="190" src="https://streak-stats.demolab.com/?user=yesamer&theme=rad="center">
-  <!-- Profile views counter -->
-  <img alt="Profile Views" src="https://komarev.com/flat-square&color=blue">
-</p>
-
 ## 🔧 Core Technologies
 
 **Languages:** Java, JavaScript, TypeScript
