@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Yeser Amer
+# 👋 I'm Yeser Amer
 
 **Software Architect** | Apache KIE Contributor | Open Source Enthusiast | IBM | Former Red Hat | Former UniCredit | Former Project Automation Based in 🇮🇹 Molfetta, Italy
 
@@ -17,12 +17,12 @@ I'm a software architect specializing in business automation and intelligent sys
 - **Open Source Leadership** — Active participant in the Apache Incubator community
 - **AI & Protocol Integration** — Exploring MCP (Model Context Protocol) for intelligent system integration
 
-**Professional Background:** IBM | Red Hat | UniCredit | Project Automation — building enterprise solutions at scale
+**Professional Background:** [IBM](https://www.ibm.com/) | [Red Hat](https://www.redhat.com/) | [UniCredit](https://www.unicredit.it/en) | [Project Automation](https://p-a.it/en/) — building enterprise solutions at scale
 
 ## 🔧 Core Technologies
 
-**Languages:** Java, JavaScript, TypeScript
-**Frameworks & Platforms:** Apache Drools, Kogito, jBPM, OptaPlanner, KIE Tools, Quarkus, SpringBoot, React
+**Languages:** Java, JavaScript, TypeScript   
+**Frameworks & Platforms:** Apache KIE (Drools, Kogito, jBPM, OptaPlanner), Jakarta EE, Quarkus, SpringBoot, React  
 **Protocols & Standards:** MCP (Model Context Protocol), REST, gRPC  
 **Focus Areas:** Business Rules Engines, Complex Event Processing, Workflow Automation, Cloud-Native Architecture, AI Integration
 
