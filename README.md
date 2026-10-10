@@ -1,51 +1,62 @@
 # 👋 I'm Yeser Amer
 
-**Software Architect** | Apache KIE Contributor | Open Source Enthusiast | IBM | Former Red Hat | Former UniCredit | Former Project Automation Based in 🇮🇹 Molfetta, Italy
+**Software Architect & Tech Lead** | Official Apache KIE Committer | Cloud-Native & Open Source Enthusiast  
+📍 Based in Puglia, Italy 🇮🇹
 
-I'm passionate about building intelligent, scalable enterprise solutions and actively contributing to open source. As a contributor to the Apache KIE project, I work on some of the most popular business automation open-source technologies in the ecosystem. With experience across leading enterprise software companies, I bring deep expertise in modernizing complex systems and driving digital transformation.
-
-## 🎯 About Me
-
-I'm a software architect specializing in business automation and intelligent systems with deep expertise in:
-
-- **Apache KIE Ecosystem** — Contributor to Drools, Kogito, jBPM, and KIE Tools
-- **Rule Engines & CEP** — Complex event processing and business rules management
-- **DMN (Decision Model Notation)** — Design and implementation of standardized decision models
-- **Cloud-Native Business Automation** — Building modern, scalable automation platforms with Quarkus
-- **Enterprise Architecture** — Designing distributed systems and platform engineering solutions
-- **Digital Transformation** — Modernizing legacy systems and driving innovation across enterprises
-- **Open Source Leadership** — Active participant in the Apache Incubator community
-- **AI & Protocol Integration** — Exploring MCP (Model Context Protocol) for intelligent system integration
-
-**Professional Background:** [IBM](https://www.ibm.com/) | [Red Hat](https://www.redhat.com/) | [UniCredit](https://www.unicredit.it/en) | [Project Automation](https://p-a.it/en/) — building enterprise solutions at scale
-
-## 🔧 Core Technologies
-
-**Languages:** Java, JavaScript, TypeScript   
-**Frameworks & Platforms:** Apache KIE (Drools, Kogito, jBPM, OptaPlanner), Jakarta EE, Quarkus, SpringBoot, React  
-**Protocols & Standards:** MCP (Model Context Protocol), REST, gRPC  
-**Focus Areas:** Business Rules Engines, Complex Event Processing, Workflow Automation, Cloud-Native Architecture, AI Integration
-
-## 📦 Apache KIE Projects
-
-I actively contribute to the Apache KIE (incubating) ecosystem:
-
-- **[Drools](https://github.com/apache/incubator-kie-drools)** — Rule engine and complex event processing (CEP) framework
-- **[Kogito](https://github.com/apache/incubator-kie-kogito-runtimes)** — Cloud-native business automation runtime
-- **[KIE Tools](https://github.com/apache/incubator-kie-tools)** — Comprehensive tooling for Kogito and business process automation
-- **[jBPM](https://github.com/apache/incubator-kie-kogito-runtimes)** — Workflow and process automation engine
-
-## 🌐 Connect & Collaborate
-
-- **LinkedIn:** [yeseramer](https://www.linkedin.com/in/yeseramer/)
-- **Twitter:** [@yesrema](https://twitter.com/yesrema)
-- **Apache KIE Community:** [Zulip Chat](https://kie.zulipchat.com/) | [Mailing Lists](https://lists.apache.org/list.html?dev@kie.apache.org)
-- **Interests:** Business automation architectures, open source collaboration, and mentoring
-
-## 💡 What I'm Working On
-
-Contributing to the Apache KIE ecosystem to advance business automation technologies and help organizations build intelligent, scalable systems. I'm passionate about making enterprise automation tools more accessible and powerful for the global developer community.
+I design and scale high-performance, cloud-native enterprise architectures and actively drive the future of business automation. As an **Official Apache KIE Committer**, I contribute directly to core open-source technologies powering rule engines, process orchestration, and decision management globally.
 
 ---
 
-*Always open to collaborations, architectural discussions, and contributing to meaningful open source projects. Let's build amazing automation solutions together!* 🚀
+### 🌟 Quick Highlights
+- 🏛️ **Software Architect at IBM** — Former Red Hat & UniCredit.
+- ⚡ **Official Apache KIE Committer** — Core contributions to Drools, Kogito, jBPM, and KIE Tools.
+- 🚀 **Specializations:** Cloud-Native Architecture, Quarkus, Event-Driven Systems, DMN, MCP (Model Context Protocol) & AI-driven automation.
+- 👨‍💻 **15+ Years in Tech** — Modernizing legacy enterprise core applications and mentoring high-performing engineering teams.
+
+---
+
+## 🛠️ Core Technologies & Stack
+
+- **Languages:** Java (Modern/Core), TypeScript, JavaScript
+- **Ecosystems & Frameworks:** Apache KIE (Drools, jBPM, Kogito, OptaPlanner), Quarkus, Spring Boot, Jakarta EE
+- **Architecture & Paradigms:** Cloud-Native Systems, Business Rules Management (BRMS), Event-Driven Architecture (CEP), DMN, Microservices
+- **Protocols & Integrations:** REST, gRPC, MCP (Model Context Protocol)
+
+---
+
+## 📦 Apache KIE Ecosystem (Incubating)
+
+As an active **Committer**, I help maintain and advance the open-source automation stack:
+
+- **[Drools](https://github.com/apache/incubator-kie-drools)** — Powerful rules engine and complex event processing (CEP) framework.
+- **[Kogito](https://github.com/apache/incubator-kie-kogito-runtimes)** — Cloud-native business automation runtime tailored for Quarkus & Spring Boot.
+- **[jBPM](https://github.com/apache/incubator-kie-kogito-runtimes)** — Business process and workflow engine.
+- **[KIE Tools](https://github.com/apache/incubator-kie-tools)** — Next-generation web-based tooling and VS Code extensions.
+
+---
+
+## 🌐 Other Notable Open Source Contributions
+
+- **[Errai](https://github.com/errai/errai)** 
+- **[GWT Project](https://github.com/gwtproject/gwt)**
+
+---
+
+## 📊 GitHub & Open Source Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yesamer&show_icons=true&theme=nord&hide_border=true" alt="Yeser Amer's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesamer&theme=nord&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
+
+- 💼 **LinkedIn:** [Yeser Amer](https://www.linkedin.com/in/yeseramer/)
+- 🐦 **X / Twitter:** [@yesrema](https://twitter.com/yesrema)
+- 💬 **Apache KIE Community:** [Zulip Chat](https://kie.zulipchat.com/) | [Mailing List](https://lists.apache.org/list.html?dev@kie.apache.org)
+
+---
+
+*Open for technical discussions, architectural debates, and open-source collaborations. Let's connect!* 🚀
